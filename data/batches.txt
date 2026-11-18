@@ -1,0 +1,12 @@
+[
+    {
+        "batch_id": "DA-VSP-006",
+        "batch_name": "Data Analytics Visakhapatnam 006",
+        "course_name": "Python & Data Analytics"
+    },
+    {
+        "batch_id": "DA-HYD-007",
+        "batch_name": "Data Analytics Hyderabad 007",
+        "course_name": "Python & Data Analytics"
+    }
+]

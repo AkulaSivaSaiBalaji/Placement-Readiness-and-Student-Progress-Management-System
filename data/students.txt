@@ -1,0 +1,58 @@
+[
+    {
+        "student_id": "ST001",
+        "name": "Aarav Sharma",
+        "email": "aarav.sharma@example.com",
+        "phone": "9876543210",
+        "batch_id": "DA-VSP-006"
+    },
+    {
+        "student_id": "ST002",
+        "name": "Priya Patel",
+        "email": "priya.patel@example.com",
+        "phone": "9876543211",
+        "batch_id": "DA-VSP-006"
+    },
+    {
+        "student_id": "ST003",
+        "name": "Rohan Verma",
+        "email": "rohan.verma@example.com",
+        "phone": "9876543212",
+        "batch_id": "DA-VSP-006"
+    },
+    {
+        "student_id": "ST004",
+        "name": "Ananya Reddy",
+        "email": "ananya.reddy@example.com",
+        "phone": "9876543213",
+        "batch_id": "DA-HYD-007"
+    },
+    {
+        "student_id": "ST005",
+        "name": "Vikram Singh",
+        "email": "vikram.singh@example.com",
+        "phone": "9876543214",
+        "batch_id": "DA-HYD-007"
+    },
+    {
+        "student_id": "ST006",
+        "name": "Sneha Kulkarni",
+        "email": "sneha.kulkarni@example.com",
+        "phone": "9876543215",
+        "batch_id": "DA-HYD-007"
+    },
+    {
+        "student_id": "ST007",
+        "name": "Karthik Nair",
+        "email": "karthik.nair@example.com",
+        "phone": "9876543216",
+        "batch_id": "DA-VSP-006"
+    },
+    {
+        "student_id": "ST008",
+        "name": "Meera Joshi",
+        "email": "meera.joshi@example.com",
+        "phone": "9876543217",
+        "batch_id": "DA-HYD-007"
+    }
+]
