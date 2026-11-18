@@ -1,0 +1,7 @@
+# Placement Readiness and Student Progress Management System
+# Course: Python Programming | Batch: DA-VSP-006
+# Python Version: Python 3.11 or above
+
+# This application uses standard Python built-in libraries only.
+# No external third-party dependencies are required.
+# Built-in modules used: os, sys, json, datetime, pathlib, tempfile, unittest, re
