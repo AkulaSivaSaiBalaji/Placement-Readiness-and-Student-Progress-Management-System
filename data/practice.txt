@@ -1,0 +1,42 @@
+[
+    {
+        "student_id": "ST001",
+        "conducted": 20,
+        "attended": 18
+    },
+    {
+        "student_id": "ST002",
+        "conducted": 20,
+        "attended": 16
+    },
+    {
+        "student_id": "ST003",
+        "conducted": 20,
+        "attended": 13
+    },
+    {
+        "student_id": "ST004",
+        "conducted": 20,
+        "attended": 15
+    },
+    {
+        "student_id": "ST005",
+        "conducted": 20,
+        "attended": 15
+    },
+    {
+        "student_id": "ST006",
+        "conducted": 20,
+        "attended": 8
+    },
+    {
+        "student_id": "ST007",
+        "conducted": 20,
+        "attended": 19
+    },
+    {
+        "student_id": "ST008",
+        "conducted": 20,
+        "attended": 12
+    }
+]

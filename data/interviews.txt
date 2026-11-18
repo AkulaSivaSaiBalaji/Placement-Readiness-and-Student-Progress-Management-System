@@ -1,0 +1,34 @@
+[
+    {
+        "student_id": "ST001",
+        "status": "Passed"
+    },
+    {
+        "student_id": "ST002",
+        "status": "Passed"
+    },
+    {
+        "student_id": "ST003",
+        "status": "Attended"
+    },
+    {
+        "student_id": "ST004",
+        "status": "Attended"
+    },
+    {
+        "student_id": "ST005",
+        "status": "Not Attended"
+    },
+    {
+        "student_id": "ST006",
+        "status": "Not Attended"
+    },
+    {
+        "student_id": "ST007",
+        "status": "Passed"
+    },
+    {
+        "student_id": "ST008",
+        "status": "Passed"
+    }
+]
